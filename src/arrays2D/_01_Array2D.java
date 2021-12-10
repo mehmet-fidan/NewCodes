@@ -22,8 +22,6 @@ public class _01_Array2D {
             }
             System.out.println();
         }
-
-
-    }
+   }
 
 }
