@@ -1,3 +1,5 @@
+package methods;
+
 import java.util.Scanner;
 
 public class _03_MethodsAndArray {
@@ -30,13 +32,15 @@ public class _03_MethodsAndArray {
             }
         }
         for (int i = 0; i < nums.length; i++) {
-        if (nums[i]%2==0) {
+            if (nums[i]%2==0) {
                 ciftSayiAdet++;
             } else {
                 tekSayiAdet++;
             }
 
-     } System.out.println(pozitifAdet+ "; "+negatifAdet+";"+ciftSayiAdet+"; "+ tekSayiAdet+"; "+sifir);
+        } System.out.println(pozitifAdet+ "; "+negatifAdet+";"+ciftSayiAdet+"; "+ tekSayiAdet+"; "+sifir);
 
     }
+
+
 }
