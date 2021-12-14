@@ -28,12 +28,12 @@ public class _02R_Methods {
 
     }
 
-    public static void enbArray(int [] nums) {
+    public static void enkArray(int [] nums) {
         Arrays.sort(nums);
         System.out.println("en buyuk = "+nums[0]);
 
     }
-    public static void enkArray (int[] dizi) {
+    public static void enbArray (int[] dizi) {
         Arrays.sort(dizi);
         System.out.println("en kucuk = "+dizi[dizi.length-1]);
     }
