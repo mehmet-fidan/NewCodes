@@ -33,14 +33,5 @@ public class _06_ArrayExample {
 
 
         }
-
-
-
-
-
-
-
-
-
-    }
+   }
 }
