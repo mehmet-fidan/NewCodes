@@ -1,4 +1,4 @@
-package january;
+package january.various;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package january;
+package january.various;
 
 public class ArraysEx1 {
     public static void main(String[] args) {

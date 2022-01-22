@@ -1,4 +1,4 @@
-package january;
+package january.various;
 
 public class OtoBilet1401 {
     public static void main(String[] args) {
