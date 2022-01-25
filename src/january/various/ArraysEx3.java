@@ -20,7 +20,7 @@ public class ArraysEx3 {
         int elemanSayisi = sc.nextInt();
         int [] array=new int[elemanSayisi];
         for (int i = 0; i < elemanSayisi; i++) {
-            System.out.println("sayi girinizi");
+            System.out.println(1+i+". sayi girinizi");
             int sayi= sc.nextInt();
             array[i] +=sayi;
 
